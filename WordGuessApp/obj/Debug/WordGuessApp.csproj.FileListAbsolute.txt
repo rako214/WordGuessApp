@@ -1,0 +1,10 @@
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\bin\Debug\WordGuessApp.exe.config
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\bin\Debug\WordGuessApp.exe
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\bin\Debug\WordGuessApp.pdb
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\obj\Debug\WordGuessApp.csprojAssemblyReference.cache
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\obj\Debug\WordGuessApp.Form1.resources
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\obj\Debug\WordGuessApp.Properties.Resources.resources
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\obj\Debug\WordGuessApp.csproj.GenerateResource.cache
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\obj\Debug\WordGuessApp.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\obj\Debug\WordGuessApp.exe
+C:\Users\Sanya\Desktop\Apps\WordGuessApp\WordGuessApp\obj\Debug\WordGuessApp.pdb
